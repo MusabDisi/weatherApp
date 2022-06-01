@@ -1,0 +1,160 @@
+{
+  "request": {
+    "language": "en",
+    "unit": "m"
+  },
+  "location": {
+    "name": "Istanbul",
+    "country": "Turkey",
+    "region": "Istanbul",
+    "timezone_id": "Europe/Istanbul",
+    "localtime": "2021-05-28 21:59",
+    "utc_offset": "3.0"
+  },
+  "hourly": [
+    {
+      "time": "00:00",
+      "temperature": 18,
+      "weather_icon": "https://dummywebsite/dummyimage.png",
+      "humidity": 78
+    },
+    {
+      "time": "01:00",
+      "temperature": 18,
+      "weather_icon": "https://dummywebsite/dummyimage.png",
+      "humidity": 78
+    },
+    {
+      "time": "02:00",
+      "temperature": 17,
+      "weather_icon": "https://dummywebsite/dummyimage.png",
+      "humidity": 78
+    },
+    {
+      "time": "03:00",
+      "temperature": 16,
+      "weather_icon": "https://dummywebsite/dummyimage.png",
+      "humidity": 78
+    },
+    {
+      "time": "04:00",
+      "temperature": 16,
+      "weather_icon": "https://dummywebsite/dummyimage.png",
+      "humidity": 78
+    },
+    {
+      "time": "05:00",
+      "temperature": 16,
+      "weather_icon": "https://dummywebsite/dummyimage.png",
+      "humidity": 78
+    },
+    {
+      "time": "06:00",
+      "temperature": 17,
+      "weather_icon": "https://dummywebsite/dummyimage.png",
+      "humidity": 78
+    },
+    {
+      "time": "07:00",
+      "temperature": 17,
+      "weather_icon": "https://dummywebsite/dummyimage.png",
+      "humidity": 78
+    },
+    {
+      "time": "08:00",
+      "temperature": 17,
+      "weather_icon": "https://dummywebsite/dummyimage.png",
+      "humidity": 78
+    },
+    {
+      "time": "09:00",
+      "temperature": 17,
+      "weather_icon": "https://dummywebsite/dummyimage.png",
+      "humidity": 78
+    },
+    {
+      "time": "10:00",
+      "temperature": 19,
+      "weather_icon": "https://dummywebsite/dummyimage.png",
+      "humidity": 78
+    },
+    {
+      "time": "11:00",
+      "temperature": 22,
+      "weather_icon": "https://dummywebsite/dummyimage.png",
+      "humidity": 78
+    },
+    {
+      "time": "12:00",
+      "temperature": 25,
+      "weather_icon": "https://dummywebsite/dummyimage.png",
+      "humidity": 78
+    },
+    {
+      "time": "13:00",
+      "temperature": 26,
+      "weather_icon": "https://dummywebsite/dummyimage.png",
+      "humidity": 78
+    },
+    {
+      "time": "14:00",
+      "temperature": 26,
+      "weather_icon": "https://dummywebsite/dummyimage.png",
+      "humidity": 78
+    },
+    {
+      "time": "15:00",
+      "temperature": 26,
+      "weather_icon": "https://dummywebsite/dummyimage.png",
+      "humidity": 78
+    },
+    {
+      "time": "16:00",
+      "temperature": 26,
+      "weather_icon": "https://dummywebsite/dummyimage.png",
+      "humidity": 78
+    },
+    {
+      "time": "17:00",
+      "temperature": 23,
+      "weather_icon": "https://dummywebsite/dummyimage.png",
+      "humidity": 78
+    },
+    {
+      "time": "18:00",
+      "temperature": 20,
+      "weather_icon": "https://dummywebsite/dummyimage.png",
+      "humidity": 78
+    },
+    {
+      "time": "19:00",
+      "temperature": 20,
+      "weather_icon": "https://dummywebsite/dummyimage.png",
+      "humidity": 78
+    },
+    {
+      "time": "20:00",
+      "temperature": 20,
+      "weather_icon": "https://dummywebsite/dummyimage.png",
+      "humidity": 78
+    },
+    {
+      "time": "21:00",
+      "temperature": 19,
+      "weather_icon": "https://dummywebsite/dummyimage.png",
+      "humidity": 78
+    },
+    {
+      "time": "22:00",
+      "temperature": 19,
+      "weather_icon": "https://dummywebsite/dummyimage.png",
+      "humidity": 78
+    },
+    {
+      "time": "23:00",
+      "temperature": 19,
+      "weather_icon": "https://dummywebsite/dummyimage.png",
+      "humidity": 78
+    }
+  ]
+}

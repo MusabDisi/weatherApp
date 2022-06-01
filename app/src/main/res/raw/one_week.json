@@ -1,0 +1,72 @@
+{
+  "request": {
+    "language": "en",
+    "unit": "m"
+  },
+  "location": {
+    "name": "Istanbul",
+    "country": "Turkey",
+    "region": "Istanbul",
+    "timezone_id": "Europe/Istanbul",
+    "localtime": "2021-05-28 21:59",
+    "utc_offset": "3.0"
+  },
+  "one_week": [
+    {
+      "day": "today",
+      "weather_icon_day": "https://dummywebsite/dummyimage.png",
+      "weather_icon_night": "https://dummywebsite/dummyimage.png",
+      "humidity": 78,
+      "high": 26,
+      "low": 16
+    },
+    {
+      "day": "sunday",
+      "weather_icon_day": "https://dummywebsite/dummyimage.png",
+      "weather_icon_night": "https://dummywebsite/dummyimage.png",
+      "humidity": 78,
+      "high": 26,
+      "low": 16
+    },
+    {
+      "day": "monday",
+      "weather_icon_day": "https://dummywebsite/dummyimage.png",
+      "weather_icon_night": "https://dummywebsite/dummyimage.png",
+      "humidity": 78,
+      "high": 26,
+      "low": 16
+    },
+    {
+      "day": "tuesday",
+      "weather_icon_day": "https://dummywebsite/dummyimage.png",
+      "weather_icon_night": "https://dummywebsite/dummyimage.png",
+      "humidity": 78,
+      "high": 26,
+      "low": 16
+    },
+    {
+      "day": "wednesday",
+      "weather_icon_day": "https://dummywebsite/dummyimage.png",
+      "weather_icon_night": "https://dummywebsite/dummyimage.png",
+      "humidity": 78,
+      "high": 26,
+      "low": 16
+    },
+    {
+      "day": "thursday",
+      "weather_icon_day": "https://dummywebsite/dummyimage.png",
+      "weather_icon_night": "https://dummywebsite/dummyimage.png",
+      "humidity": 78,
+      "high": 26,
+      "low": 16
+    },
+    {
+      "day": "friday",
+      "weather_icon_day": "https://dummywebsite/dummyimage.png",
+      "weather_icon_night": "https://dummywebsite/dummyimage.png",
+      "humidity": 78,
+      "high": 26,
+      "low": 16
+    }
+  ]
+}

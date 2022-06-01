@@ -1,0 +1,37 @@
+{
+  "request": {
+    "language": "en",
+    "unit": "m"
+  },
+  "location": {
+    "name": "Istanbul Dummy",
+    "country": "Turkey",
+    "region": "Istanbul",
+    "timezone_id": "Europe/Istanbul",
+    "localtime": "2021-05-28 21:59",
+    "utc_offset": "3.0"
+  },
+  "current": {
+    "observation_time": "06:59 PM",
+    "temperature": 23,
+    "sunset": "18:00",
+    "sunrise": "06:00",
+    "high": 26,
+    "low": 16,
+    "weather_icon": "https://dummywebsite/dummyimage.png",
+    "weather_descriptions": [
+      "Partly cloudy"
+    ],
+    "wind_speed": 13,
+    "wind_degree": 280,
+    "wind_dir": "W",
+    "pressure": 1011,
+    "precip": 0,
+    "humidity": 78,
+    "cloudcover": 25,
+    "feelslike": 25,
+    "uv_index": 6,
+    "visibility": 10,
+    "is_day": "yes"
+  }
+}

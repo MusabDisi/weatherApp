@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">weatherApp</string>
+    <string name="yesterday">Yesterday</string>
+    <string name="dummy_high_low">25°/26°</string>
+    <string name="degrees_symbol">°</string>
+    <string name="temp_with_symbol">%1$d°</string>
+    <string name="feels_like_temp">Feels like %1$d°</string>
+    <string name="wind_speed_kmph">%1$dkm/h%2$s</string>
+    <string name="toast_fine_location_failed">Fine Location permission denied</string>
+    <string name="toast_coarse_location_failed">Coarse Location permission denied</string>
+    <string name="high_low_temps">%1$d°/%2$d°</string>
+    <string name="value_percent_int">%1$d\%</string>
+    <string name="value_percent_string">%s\%</string>
+    <string name="location_permission_denied">Location Permission was denied</string>
+    <string name="no_gps_permissions">No GPS Permissions</string>
+    <string name="location_permission_needed_to_use_this_feature">Location permission needed to use this feature</string>
+    <string name="give_permissions">give permissions</string>
+</resources>
